@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "com.example.appplantas.app-debug-61:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.appplantas.app-main-63:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.appplantas.app-debug-61:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.example.appplantas.app-main-63:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.example.appplantas.app-debug-61:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.appplantas.app-main-63:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.appplantas.app-debug-61:/layout_activity_videos.xml.flat",
+        "source": "com.example.appplantas.app-main-63:/layout/activity_videos.xml"
+    },
+    {
+        "merged": "com.example.appplantas.app-debug-61:/layout_fragment_soy_un_fragmento.xml.flat",
+        "source": "com.example.appplantas.app-main-63:/layout/fragment_soy_un_fragmento.xml"
+    },
+    {
+        "merged": "com.example.appplantas.app-debug-61:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.appplantas.app-main-63:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.appplantas.app-debug-61:/xml_backup_rules.xml.flat",
+        "source": "com.example.appplantas.app-main-63:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.appplantas.app-debug-61:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.appplantas.app-main-63:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.appplantas.app-debug-61:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.appplantas.app-main-63:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.appplantas.app-debug-61:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.appplantas.app-main-63:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.appplantas.app-debug-61:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.appplantas.app-main-63:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.appplantas.app-debug-61:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.appplantas.app-main-63:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.appplantas.app-debug-61:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.appplantas.app-main-63:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.appplantas.app-debug-61:/drawable_card_bg.xml.flat",
+        "source": "com.example.appplantas.app-main-63:/drawable/card_bg.xml"
+    },
+    {
+        "merged": "com.example.appplantas.app-debug-61:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.appplantas.app-main-63:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.appplantas.app-debug-61:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.appplantas.app-main-63:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.appplantas.app-debug-61:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.appplantas.app-main-63:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.appplantas.app-debug-61:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.appplantas.app-main-63:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.appplantas.app-debug-61:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.appplantas.app-main-63:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.appplantas.app-debug-61:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.appplantas.app-main-63:/mipmap-hdpi/ic_launcher.webp"
+    }
+]

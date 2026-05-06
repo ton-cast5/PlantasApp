@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="abrir_video_en_youtube">Abrir en YouTube</string>
+    <string name="app_name">AppPlantas</string>
+    <string name="no_se_pudo_abrir_video">No se pudo abrir el video</string>
+    <string name="reproducir_video_embebido">▶ Reproducir video</string>
+    <string name="video_no_permite_embebido">Este video no permite reproducción embebida. Se abrirá en YouTube.</string>
+    <style name="Theme.AppPlantas" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#6EE619</item>
+        <item name="colorPrimaryVariant">#4A8C0F</item>
+        <item name="colorOnPrimary">#182111</item>
+        <item name="colorSurface">#FFFFFF</item>
+        <item name="colorOnSurface">#182111</item>
+        <item name="android:windowBackground">#F7F8F6</item>
+    </style>
+</resources>

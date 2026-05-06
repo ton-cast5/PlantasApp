@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppPlantas</string>
+    <string name="abrir_video_en_youtube">Abrir en YouTube</string>
+    <string name="reproducir_video_embebido">▶ Reproducir video</string>
+    <string name="no_se_pudo_abrir_video">No se pudo abrir el video</string>
+    <string name="video_no_permite_embebido">Este video no permite reproducción embebida. Se abrirá en YouTube.</string>
+</resources>
